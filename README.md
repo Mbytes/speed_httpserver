@@ -23,7 +23,6 @@ IP         URL            SERVIDOR  SPEED       SIZE   TCONNECT  TDNS   TPRETRAN
 127.0.0.2  es.nginx.com   ngnix01   193291,000  35805  0,038     0,000  0,038      0,103   0,185
 127.0.0.2  es.nginx.com   nginx04   196730,000  35859  0,040     0,000  0,040      0,104   0,182
 127.0.0.2  es.nginx.com   nginx08   117754,000  36595  0,040     0,000  0,040      0,224   0,311
-
 ---------------------------
 
 SIZE		Tamaño devuelto
