@@ -1,0 +1,5 @@
+#IPs frontales 
+127.0.0.1:frontal
+127.0.0.2:backend2
+127.0.0.3:backend3
+127.0.0.4:backend4

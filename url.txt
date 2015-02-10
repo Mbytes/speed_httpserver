@@ -1,0 +1,5 @@
+#URL Hostname a recuperar
+www.frontal1.com
+es.frontal1.com
+uk.frontal1.com
+
